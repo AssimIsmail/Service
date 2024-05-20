@@ -1,0 +1,5 @@
+/* App.css */
+.nav-link-active {
+  text-decoration: underline;
+  text-decoration-color: black; /* underline in black */
+}
